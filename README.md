@@ -1,6 +1,7 @@
-# word_cloud
+<h1 align="center">
+  Word Cloud
+</h1>
 <p align="center">
-create a “word cloud” from a text
+  create a “word cloud” from a text
 </p>
-<img width="460" height="300" src="figure.png">
-![](figure.png)
+<img src="figure.png">
