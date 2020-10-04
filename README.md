@@ -1,3 +1,3 @@
 # word_cloud
 
-![](figure_1.png)
+![](Figure_1.png)
