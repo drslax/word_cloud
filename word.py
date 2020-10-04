@@ -5,7 +5,7 @@ from tkinter import filedialog
 from matplotlib import pyplot as plt
 
 
-# This is the uploader
+# This is the text uploader
 
 def _upload():
 
@@ -50,7 +50,7 @@ def calculate_frequencies(file_contents):
     return cloud.to_array()
 
 
-# If you have done everything correctly, your word cloud image should appear after running the cell below.  Fingers crossed!
+# Result
 
 myimage = calculate_frequencies(_upload())
 plt.imshow(myimage, interpolation='bilinear')
